@@ -1,0 +1,3 @@
+'access hello world test':
+  title: 'Access Hello World test page'
+  description: 'Defines whether a user has access to see Hello World test page'
