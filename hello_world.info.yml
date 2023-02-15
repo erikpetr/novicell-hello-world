@@ -1,0 +1,5 @@
+name: Hello World
+type: module
+description: 'Module for Novicell assignment by Erik Petra'
+package: Novicell
+core_version_requirement: ^8 || ^9 || ^10
