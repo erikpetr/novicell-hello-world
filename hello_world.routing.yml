@@ -1,0 +1,5 @@
+hello_world.test:
+  path: '/test'
+  defaults:
+    _controller: \Drupal\hello_world\Controller\HelloWorldController::testPage
+    _title_callback: \Drupal\hello_world\Controller\HelloWorldController::testPageTitle
